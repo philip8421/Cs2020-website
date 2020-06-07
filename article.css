@@ -8,6 +8,6 @@ a {
     text-decoration: none;
     text-transform: uppercase;}
 
-    .time {color: red;
+    a.time {color: red;
         text-decoration: none;
         text-transform: uppercase;}
