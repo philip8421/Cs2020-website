@@ -1,5 +1,5 @@
 .center { margin: 30%; width: 800px; margin-top: 3%; border-color: black; border-radius: 15px; margin-block-end: 2cm; }
-.text {margin-left: 30%; margin-right: 30%;  font-size: 15pt; font-family: sans-serif;}
+.text {margin-left: 30%; margin-right: 30%;  font-size: 17pt; font-family: New Century , serif; color: black;}
 .tab {margin-left: 35%; margin-right: 20%;  font-size: 15pt; font-family: sans-serif;}
-.articletitle {text-align: center;  font-size: 30pt;}
+.articletitle { color: black; font-family: 'Trocchi', serif; font-size: 40px; font-weight: normal; line-height: 48px; margin: 0; text-align: center; }
 .author {text-align: center; color:red; font-size: 15pt;}
