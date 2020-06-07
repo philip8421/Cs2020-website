@@ -13,5 +13,6 @@ a {
         text-transform: uppercase;}
        
  a:hover {
-    color: red;}
+    color: red;
+    cursor: pointer;}
           
