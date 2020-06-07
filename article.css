@@ -3,3 +3,11 @@
 .tab {margin-left: 35%; margin-right: 20%;  font-size: 15pt; font-family: sans-serif;}
 .articletitle { color: black; font-family: 'Trocchi', serif; font-size: 40px; font-weight: normal; line-height: 48px; margin: 0; text-align: center; }
 .author {text-align: center; color:red; font-size: 15pt;}
+a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;}
+
+    .time {color: red;
+        text-decoration: none;
+        text-transform: uppercase;}
